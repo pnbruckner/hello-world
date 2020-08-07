@@ -2,3 +2,4 @@ a previous line
 2.1.0
 line 1
 a different line 2
+line 3
